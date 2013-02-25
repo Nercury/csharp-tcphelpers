@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionServer", "ConnectionServer\ConnectionServer.csproj", "{CAAB0E2B-8D88-48A3-B7F4-61B96A8695B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionClient", "ConnectionClient\ConnectionClient.csproj", "{7C55DCDD-54F6-4ACD-B900-D64507378BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAAB0E2B-8D88-48A3-B7F4-61B96A8695B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAB0E2B-8D88-48A3-B7F4-61B96A8695B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAB0E2B-8D88-48A3-B7F4-61B96A8695B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAB0E2B-8D88-48A3-B7F4-61B96A8695B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C55DCDD-54F6-4ACD-B900-D64507378BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C55DCDD-54F6-4ACD-B900-D64507378BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C55DCDD-54F6-4ACD-B900-D64507378BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C55DCDD-54F6-4ACD-B900-D64507378BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
